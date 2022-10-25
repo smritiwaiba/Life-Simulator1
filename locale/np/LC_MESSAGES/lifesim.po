@@ -836,3 +836,94 @@ msgstr "तपाईं लुक्समा कतिमा सेट गर�
 msgid "What would you like to set Karma to? (0-100)"
 msgstr "तपाई कर्म कतिमा सेट गर्न चाहनुहुन्छ? (0-100)"
 
+#: src/menus/main.py:620
+msgid "What would you like to set Stress to? (0-100)"
+msgstr "तपाई तनाव कतिमा सेट गर्न चाहनुहुन्छ? (0-100)"
+
+#: src/menus/main.py:625
+msgid "What would you like to set Performance to? (0-100)"
+msgstr "तपाई प्रदर्शन कतिमा सेट गर्न चाहनुहुन्छ? (0-100)"
+
+#: src/menus/main.py:632
+msgid "First name"
+msgstr "पहिलो नाम"
+
+#: src/menus/main.py:633
+msgid "Last name"
+msgstr "थर"
+
+#: src/menus/main.py:637
+msgid "Change first name"
+msgstr "पहिलो नाम परिवर्तन गर्नुहोस्"
+
+#: src/menus/main.py:638
+msgid "Change last name"
+msgstr "थर परिवर्तन गर्नुहोस्"
+
+#: src/menus/main.py:639
+msgid "Change gender"
+msgstr "लिङ्ग परिवर्तन गर्नुहोस्"
+
+#: src/menus/main.py:644
+msgid "Enter first name: "
+msgstr "पहिलो नाम राख्नुहोस्"
+
+#: src/menus/main.py:648
+msgid "Enter last name: "
+msgstr "थर राख्नुहोस्"
+
+#: src/menus/main.py:661
+msgid "You found a job with a salary of ${salary:,}. Would you like to apply?"
+msgstr "तपाईले ${salary:,} को तलबमा जागिर पाउनुभयो। के तपाइँ आवेदन दिन चाहनुहुन्छ?"
+
+#: src/menus/main.py:675
+msgid "You got the job!"
+msgstr "तपाईले काम पाउनुभयो!"
+
+#: src/menus/main.py:679
+msgid "You didn't get an interview."
+msgstr "तपाईले अन्तर्वार्ता लिनुभएन।"
+
+#: src/menus/main.py:684
+msgid "Your job"
+msgstr "तपाईंको काम"
+
+#: src/menus/main.py:691
+msgid "Quit Job"
+msgstr "काम छोड्नुहोस्"
+
+#: src/menus/main.py:691
+msgid "Retire"
+msgstr "रिटायर"
+
+#: src/menus/main.py:691
+msgid "Work Harder"
+msgstr "अझै मेहनत गर्नुहोस्"
+
+#: src/menus/main.py:705
+msgid "Do you want to retire? You will receive a yearly pension of ${pension}"
+msgstr "के तपाई रिटायर हुन चाहनुहुन्छ? तपाईले वार्षिक रूपमा ${pension} को पेन्सन प्राप्त गर्नुहुनेछ।"
+
+#: src/menus/main.py:713
+msgid "You retired and are now receiving pension of ${pension}."
+msgstr "तपाईं रिटायर हुनुभयो र अहिले ${पेन्सन} को पेन्सन प्राप्त गर्दै हुनुहुन्छ।"
+
+#: src/menus/main.py:717
+msgid "Are you sure you want to quit your job?"
+msgstr "के तपाई आफ्नो जागिर छोड्ने पक्का हुनुहुन्छ?"
+
+#: src/menus/main.py:719
+msgid "You quit your job."
+msgstr "तपाईले जागिर छोड्नुभयो।"
+
+#: src/menus/main.py:724
+msgid "No previously saved games"
+msgstr "अगाडि सेभ गरिएका खेलहरू छैनन्"
+
+#: src/menus/main.py:726
+msgid "Previously saved games:"
+msgstr "अगाडि सेभ गरिएका खेलहरू:"
+
+#: src/menus/main.py:734
+msgid "Delete Save"
+msgstr "बचत मेटाउनुहोस्"
