@@ -926,4 +926,336 @@ msgstr "अगाडि सेभ गरिएका खेलहरू:"
 
 #: src/menus/main.py:734
 msgid "Delete Save"
-msgstr "बचत मेटाउनुहोस्"
+msgstr "सञ्चित मेटाउनुहोस्"
+
+#: src/menus/main.py:734
+msgid "Load Save"
+msgstr "लोड सञ्चित गर्नुहोस्"
+
+#: src/menus/main.py:736
+msgid "Would you like to load this save?"
+msgstr "के तपाइँ यो सञ्चित लोड गर्न चाहनुहुन्छ?"
+
+#: src/menus/main.py:742
+msgid "Are you sure you want to delete this save?"
+msgstr "के तपाइँ यो सञ्चित मेटाउन निश्चित हुनुहुन्छ?"
+
+#: src/menus/start.py:15
+msgid "Load Game"
+msgstr "खेल लोड गर्नुहोस्"
+
+#: src/menus/start.py:15
+msgid "New Game"
+msgstr "नयाँ खेल"
+
+#: src/menus/start.py:22
+msgid "Custom Life"
+msgstr "रुचि अनुसारको जीवन"
+
+#: src/menus/start.py:22
+msgid "Random Life"
+msgstr "अनियमित रूपको जीवन"
+
+#: src/menus/start.py:28
+msgid "Enter your first name: "
+msgstr "तपाईको पहिलो नाम लेख्नुहोस्: "
+
+#: src/menus/start.py:30
+msgid "Enter your last name: "
+msgstr "तपाईको थर लेख्नुहोस्: "
+
+#: src/menus/start.py:32
+msgid "Choose your gender:"
+msgstr "आफ्नो लिङ्ग न: "
+
+#: src/menus/start.py:33 src/people/classes/player.py:332
+msgid "Female"
+msgstr "महिला"
+
+#: src/menus/start.py:33 src/people/classes/player.py:332
+msgid "Male"
+msgstr "पुरुष"
+
+#: src/menus/start.py:36
+msgid "Would you like to Randomize or Customize your traits?"
+msgstr "के तपाईं आफ्नो विशेषताहरू अनियमित अनुसारको गर्न चाहनुहुन्छ वा रुचि अनुसारको गर्न चाहनुहुन्छ?"
+
+#: src/menus/start.py:37
+msgid "Customize"
+msgstr "रुचि अनुसारको बनाउनुहोस्"
+
+#: src/menus/start.py:37
+msgid "Randomize"
+msgstr अनियमित अनुसारको बनाउनुहोस्"
+
+#: src/menus/start.py:45
+msgid "Enter a number to select or deselect a trait"
+msgstr "विशेषता छान्न वा नछान्न नम्बर लेख्नुहोस्"
+
+#: src/menus/start.py:46
+msgid "Select \"Done\" when finished"
+msgstr "सम्पन्न भएपछि \"सम्पन्न\" मा थीच्नुहोस्"
+
+#: src/menus/start.py:48
+msgid "Traits:"
+msgstr "विशेषता:"
+
+#: src/menus/start.py:52
+msgid "None"
+msgstr "कुनै पनि होइन"
+
+#: src/menus/start.py:61
+msgid "Done"
+msgstr "सम्पन्न भयो"
+
+#: src/menus/start.py:64
+msgid "Would you like to start with these traits?"
+msgstr "के तपाइँ यी विशेषताहरुसंग सुरु गर्न चाहनुहुन्छ?"
+
+#: src/menus/start.py:79
+msgid "Your mother is {name}, age {age}."
+msgstr "तपाईकी आमा {name} हो, उमेर {age} हो।"
+
+#: src/menus/start.py:82
+msgid "Your father is {name}, age {age}."
+msgstr "तपाईकी बाबा {name} हो, उमेर {age} हो।"
+
+#: src/menus/start.py:100
+msgid "You have a {siblingtype} named {name}, age {age}."
+msgstr "तपाईंसँग {name} नामको {siblingtype} छ, उमेर {age}।"
+
+#: src/people/classes/parent.py:31
+msgid "father"
+msgstr "बुवा"
+
+#: src/people/classes/parent.py:31
+msgid "mother"
+msgstr "आमा"
+
+#: src/people/classes/parent.py:37
+msgid "Father"
+msgstr "बुवा"
+
+#: src/people/classes/parent.py:37
+msgid "Mother"
+msgstr "आमा""
+
+#: src/people/classes/player.py:113
+msgid "You have the following traits:"
+msgstr "तपाईसँग निम्न विशेषताहरू छन्:"
+
+#: src/people/classes/player.py:203
+msgid "You died of old age."
+msgstr "तपाई बुढ्यौलीले मर्नुभयो।"
+
+#: src/people/classes/player.py:227
+msgid "You are suffering from depression."
+msgstr "तपाई डिप्रेसनबाट पीडित हुनुहुन्छ।"
+
+#: src/people/classes/player.py:235
+msgid "Your {relative} died at the age of {age} due to old age."
+msgstr "तपाईको {relative} बुढेसकालका कारण {age} वर्षको उमेरमा मरे।"
+
+#: src/people/classes/player.py:253
+msgid "You inherited ${amount}"
+msgstr "तपाईले ${amount} विरासत प्राप्त गर्नुभयो"
+
+#: src/people/classes/player.py:276
+msgid ""
+"You have been fired from your job.\n"
+"Reason: Performance"
+msgstr ""
+"तपाईलाई जागिरबाट निकालिएको छ।\n"
+"कारण: प्रदर्शन"
+
+#: src/people/classes/player.py:289
+msgid "You feel like you're on the verge of burnout from so much work!"
+msgstr "तपाईलाई धेरै कामबाट थकावटको महसुस भइरहेको छ!"
+
+#: src/people/classes/player.py:294
+msgid "You're feeling stressed out from all of this work."
+msgstr "तपाईं यो सबै कामबाट तनाव महसुस गर्दै हुनुहुन्छ।"
+
+#: src/people/classes/player.py:300
+msgid "You are suffering from high blood pressure."
+msgstr "तपाईं उच्च रक्तचापबाट पीडित हुनुहुन्छ।"
+
+#: src/people/classes/player.py:338
+msgid "Lifetime Happiness"
+msgstr "जीवनको खुशी"
+
+#: src/people/classes/player.py:381
+msgid "You were struck by lightning!"
+msgstr "तपाईंलाई चट्याङले हान्यो!"
+
+#: src/people/classes/player.py:398
+msgid "You died after being struck by lightning."
+msgstr "चट्याङ लागेर तपाईंको मृत्यु भयो।"
+
+#: src/people/classes/player.py:410
+msgid "You graduated from university."
+msgstr "तपाईंले विश्वविद्यालयबाट स्नातक गर्नुभयो।"
+
+#: src/people/classes/player.py:415
+msgid "You now have to start paying back your student loan"
+msgstr "तपाईंले अब तपाइँको विद्यार्थी ऋण फिर्ता तिर्न सुरु गर्नुपर्छ"
+
+#: src/people/classes/player.py:419
+msgid "You were expelled from university after earning bad grades."
+msgstr "नराम्रो अंक लिराएपछि तपाईंलाई विश्वविद्यालयबाट निकालियो।"
+
+#: src/people/classes/player.py:428
+msgid "You've fully paid off your student loan"
+msgstr "तपाईंले आफ्नो विद्यार्थी ऋण पूर्ण रूपमा भुक्तान गर्नुभयो"
+
+#: src/people/classes/player.py:432
+msgid "You are no longer suffering from depression"
+msgstr "तपाईं अब डिप्रेसनबाट पीडित हुनुहुन्न"
+
+#: src/people/classes/player.py:443
+msgid "You died due to a massive heart attack."
+msgstr "तपाईंको ठूलो हृदयघातको कारण मृत्यु भयो।"
+
+#: src/people/classes/player.py:446
+msgid "You are no longer suffering from high blood pressure"
+msgstr "तपाईं अब उच्च रक्तचापबाट पीडित हुनुहुन्न"
+
+#: src/people/classes/player.py:453
+msgid "Your mother is taking to to the doctor's office to get vaccinated."
+msgstr "तपाईकी आमा खोप लगाउन डाक्टरको कार्यालयमा जाँदै हुनुहुन्छ।"
+
+#: src/people/classes/player.py:455
+msgid "How will you behave?"
+msgstr "तपाईं कस्तो व्यवहार गर्नुहुन्छ?"
+
+#: src/people/classes/player.py:456
+msgid "Bite her"
+msgstr "उसलाई टोक्नुहोस्"
+
+#: src/people/classes/player.py:456
+msgid "Throw a tantrum"
+msgstr "रिस "
+
+#: src/people/classes/player.py:456
+msgid "Try to stay calm"
+msgstr "शान्त रहन प्रयास गर्नुहोस्"
+
+#: src/people/classes/player.py:460
+msgid "You remained calm"
+msgstr "तपाईं शान्त रहनुभयो"
+
+#: src/people/classes/player.py:464
+msgid "You threw a tantrum"
+msgstr "तपाईं रिसाउनुभयो"
+
+#: src/people/classes/player.py:468
+msgid "You bit your mother"
+msgstr "तपाईंले आमालाई टोक्नुभयो"
+
+#: src/people/classes/player.py:481
+msgid "You are starting elementary school"
+msgstr "तपाईं प्राथमिक विद्यालय सुरु गर्दै हुनुहुन्छ"
+
+#: src/people/classes/player.py:485
+msgid "You are starting middle school"
+msgstr "तपाई माध्यमिक विद्यालय सुरु गर्दै हुनुहुन्छ"
+
+#: src/people/classes/player.py:489
+msgid "You are starting high school"
+msgstr "तपाईं हाई स्कूल सुरु गर्दै हुनुहुन्छ"
+
+#: src/people/classes/player.py:494
+msgid "You graduated from high school."
+msgstr "तपाईंले हाई स्कूलबाट स्नातक गर्नुभयो।"
+
+#: src/people/classes/player.py:500
+msgid "Would you like to apply to university?"
+msgstr "के तपाई विश्वविद्यालयमा आवेदन दिन चाहनुहुन्छ?"
+
+#: src/people/classes/player.py:505
+msgid "Your application to university was accepted!"
+msgstr "विश्वविद्यालयले तपाईंको आवेदन स्वीकार गरियो!"
+
+#: src/people/classes/player.py:507
+msgid "Scholarship"
+msgstr "छात्रवृत्ति"
+
+#: src/people/classes/player.py:508
+msgid "Student Loan"
+msgstr "विद्यार्थी ऋण"
+
+#: src/people/classes/player.py:509
+msgid "Ask parents to pay"
+msgstr "अभिभावकहरूलाई तिर्न सोध्नुहोस्"
+
+#: src/people/classes/player.py:513
+msgid "How would you like to pay for your college tuition?"
+msgstr "तपाई आफ्नो कलेज ट्यूशनको लागि कसरी तिर्न चाहनुहुन्छ?"
+
+#: src/people/classes/player.py:519
+msgid "Your scholarship application has been awarded!"
+msgstr "तपाईको छात्रवृत्ति आवेदन सम्मानित गरिएको छ!"
+
+#: src/people/classes/player.py:528
+msgid "Your scholarship application was rejected."
+msgstr "तपाईको छात्रवृत्ति आवेदन अस्वीकार गरियो।"
+
+#: src/people/classes/player.py:538
+msgid "Your parents agreed to pay for your university tuition!"
+msgstr "तपाईंका आमाबाबुले तपाईंको विश्वविद्यालयको शिक्षण शुल्क तिर्न राजी भए!"
+
+#: src/people/classes/player.py:549
+msgid "Your parents refused to pay for your university tuition."
+msgstr "तपाईंका आमाबाबुले तपाईंको विश्वविद्यालयको शिक्षण शुल्क तिर्न अस्वीकार गर्नुभयो।"
+
+#: src/people/classes/player.py:557
+msgid "You took out a student loan to pay for your university tuition."
+msgstr "तपाईंले आफ्नो विश्वविद्यालयको शुल्क तिर्नको लागि विद्यार्थी ऋण लिनुभयो।"
+
+#: src/people/classes/player.py:563
+msgid "You are now enrolled in university."
+msgstr "तपाई अहिले विश्वविद्यालयमा भर्ना हुनुभयो।"
+
+#: src/people/classes/player.py:567
+msgid "Your application to university was rejected."
+msgstr "विश्वविद्यालयले तपाईंको आवेदन अस्वीकार गरियो।"
+
+#: src/people/classes/relationship.py:41
+msgid "his"
+msgstr "उनको"
+
+#: src/people/classes/relationship.py:41 src/people/classes/relationship.py:44
+msgid "her"
+msgstr "उनीको"
+
+#: src/people/classes/relationship.py:44
+msgid "him"
+msgstr "उ"
+
+#: src/people/classes/relationship.py:47
+msgid "he's"
+msgstr "उनको"
+
+#: src/people/classes/relationship.py:47
+msgid "she's"
+msgstr "उनीको"
+
+#: src/people/classes/relationship.py:53
+msgid "relationship"
+msgstr "सम्बन्ध"
+
+#: src/people/classes/sibling.py:28
+msgid "brother"
+msgstr "भाइ"
+
+#: src/people/classes/sibling.py:28
+msgid "sister"
+msgstr "बहिनी"
+
+#: src/people/classes/sibling.py:34
+msgid "Brother"
+msgstr "भाइ"
+
+#: src/people/classes/sibling.py:34
+msgid "Sister"
+msgstr "बहिनी"
